@@ -28,6 +28,9 @@ Plat Parfait is a mobile application developed as part of my studies. Built with
 - Get personalized recipe suggestions based on the ingredients available in your fridge, reducing food waste.
 
 ### MyList
+<img src="https://github.com/user-attachments/assets/0314c317-e374-4460-877c-11630c378e66" width="216" height="480">
+<img src="https://github.com/user-attachments/assets/5506f884-1c10-4337-85b0-441aca6d12cf" width="216" height="480">  
+
 - Manage your shopping list by adding ingredients from recipes.
 - Remove or add ingredients as needed.
 - Move purchased items from the shopping list to the fridge inventory.
@@ -41,9 +44,7 @@ Plat Parfait is a mobile application developed as part of my studies. Built with
 - **Framework:** Flutter
 - **Backend:** Firebase
 
-<img src="https://github.com/user-attachments/assets/5506f884-1c10-4337-85b0-441aca6d12cf" width="216" height="480">  
 <img src="https://github.com/user-attachments/assets/ecbd1116-6321-401d-8f44-c5d5e88674cb" width="216" height="480">
-<img src="https://github.com/user-attachments/assets/0314c317-e374-4460-877c-11630c378e66" width="216" height="480">
 <img src="https://github.com/user-attachments/assets/90a6a993-1681-4c5d-a7a2-fce0b6192e46" width="216" height="480">
 <img src="https://github.com/user-attachments/assets/a95c088e-ce53-4bfd-9d31-2cc06cdba1bc" width="216" height="480">
 <img src="https://github.com/user-attachments/assets/881dcbe4-46a2-4a8e-99c8-7ddf7af68093" width="216" height="480">
