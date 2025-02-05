@@ -1,6 +1,6 @@
 # PlatParfaitPF
 
-![Screenshot_20250205_152626](https://github.com/user-attachments/assets/df2bff74-38d2-4e40-9102-3752d100de89)
+![Screenshot_20250205_152626](https://github.com/user-attachments/assets/df2bff74-38d2-4e40-9102-3752d100de89 | width=100)
 ![Screenshot_20250205_152600](https://github.com/user-attachments/assets/5506f884-1c10-4337-85b0-441aca6d12cf)
 ![Screenshot_20250205_152531](https://github.com/user-attachments/assets/ecbd1116-6321-401d-8f44-c5d5e88674cb)
 ![Screenshot_20250205_152528](https://github.com/user-attachments/assets/0314c317-e374-4460-877c-11630c378e66)
