@@ -15,7 +15,8 @@ Plat Parfait is a mobile application developed as part of my studies. Built with
 - Add ingredients directly to your shopping list.
 
 ### Social Features
-<img src="https://github.com/user-attachments/assets/df2bff74-38d2-4e40-9102-3752d100de89" width="216" height="480">
+<img src="https://github.com/user-attachments/assets/df2bff74-38d2-4e40-9102-3752d100de89" width="216" height="480">  
+
 - Share recipes using deep links.
 - Like recipes and add friends.
 - Upload a photo of your dish after cooking and share it with your network.
