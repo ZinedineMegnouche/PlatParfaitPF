@@ -2,19 +2,19 @@
 
 Plat Parfait is a mobile application developed as part of my studies. Built with Flutter, it serves as a social network for cooking enthusiasts, allowing users to share and discover recipes effortlessly.
 
-## Features
+# Features
 
-### Recipe Search & Filtering
+## Recipe Search & Filtering
 - Search recipes by name, difficulty, or preparation time.
 - Filter recipes by course type (appetizer, main course, dessert), dietary preferences (vegetarian, pescatarian), and country of origin.
 - Apply multiple filters to refine your search.
 
-### Recipe Details
+## Recipe Details
 - Each recipe includes a list of ingredients with precise quantities and step-by-step instructions.
 - Adjust ingredient quantities based on the number of servings.
 - Add ingredients directly to your shopping list.
 
-### Social Features
+## Social Features
 <img src="https://github.com/user-attachments/assets/df2bff74-38d2-4e40-9102-3752d100de89" width="216" height="480">  
 
 - Share recipes using deep links.
@@ -24,10 +24,10 @@ Plat Parfait is a mobile application developed as part of my studies. Built with
 - Report inappropriate posts and images (racist, discriminatory content) via a moderation system.
 - Receive push notifications when someone likes or comments on your post.
 
-### MyFridge
+## MyFridge
 - Get personalized recipe suggestions based on the ingredients available in your fridge, reducing food waste.
 
-### MyList
+## MyList
 <img src="https://github.com/user-attachments/assets/0314c317-e374-4460-877c-11630c378e66" width="216" height="480">
 <img src="https://github.com/user-attachments/assets/5506f884-1c10-4337-85b0-441aca6d12cf" width="216" height="480">  
 
@@ -35,12 +35,12 @@ Plat Parfait is a mobile application developed as part of my studies. Built with
 - Remove or add ingredients as needed.
 - Move purchased items from the shopping list to the fridge inventory.
 
-### Leaderboard
+## Leaderboard
 - Compete with friends and the global community to see who cooks the most recipes.
 - Earn points by posting a photo of your cooked dish.
 - Points are awarded based on recipe difficulty.
 
-## Technologies Used
+# Technologies Used
 - **Framework:** Flutter
 - **Backend:** Firebase
 
