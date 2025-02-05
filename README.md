@@ -1,4 +1,8 @@
 # PlatParfait
+
+Bonjour, 
+Comment cava ?  
+Tres bien
 <img src="https://github.com/user-attachments/assets/df2bff74-38d2-4e40-9102-3752d100de89" width="216" height="480">
 <img src="https://github.com/user-attachments/assets/5506f884-1c10-4337-85b0-441aca6d12cf" width="216" height="480">  
 OUI  
