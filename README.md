@@ -36,6 +36,7 @@ Plat Parfait is a mobile application developed as part of my studies. Built with
 - AI-powered image verification ensures that uploaded photos match a real dish; otherwise, an error is displayed.
 - Report inappropriate posts and images (racist, discriminatory content) via a moderation system.
 - Receive push notifications when someone likes or comments on your post.
+- Deeplink enabling users to share recipes with each other, allowing direct navigation to the respective recipe
 
 <img src="https://github.com/user-attachments/assets/f586764d-d758-4f96-9049-585abd38f9d8" width="216" height="480">
 <img src="https://github.com/user-attachments/assets/df2bff74-38d2-4e40-9102-3752d100de89" width="216" height="480">  
